@@ -113,6 +113,6 @@ Through this project, I learned:
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Satyam Soni**
 
 ⭐ If you find this project useful, feel free to star this repository!

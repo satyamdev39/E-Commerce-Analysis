@@ -35,7 +35,7 @@ The main goal of this project is to practice **SQL data analysis skills** and un
 
 ## 🔍 SQL Concepts Used
 
-During this project, I practiced:
+During this project,I practiced:
 
 ✅ SELECT statements  
 ✅ Filtering with WHERE  

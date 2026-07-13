@@ -72,10 +72,13 @@ Some key business questions explored:
 ```text
 E-commerce-Analysis/
 │
-├── 📄 ecommerce_analysis.sql # SQL queries
-├── 📊 ecommerce_data.csv # Dataset
-├── 📖 README.md # Documentation
-└── 📸 screenshots/ # Query outputs
+├── 📄 ecommerce_analysis.sql
+│
+├── 📊 ecommerce_data.csv
+│
+├── 📖 README.md
+│ 
+└── 📸 screenshots/ 
 ```
 
 ---

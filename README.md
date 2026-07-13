@@ -78,7 +78,7 @@ E-commerce-Analysis/
 │
 ├── 📖 README.md
 │ 
-└── 📸 screenshots/ 
+└── 📸 screenshots with explanation
 ```
 
 ---
